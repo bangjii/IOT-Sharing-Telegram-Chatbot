@@ -7,7 +7,7 @@
 const char* ssid = "";
 const char* password = "";
 
-#define BOTtoken "5902438516:AAE_L70IH7Rdty1dXOXaX75zNkDyn26v93o"
+#define BOTtoken "xxxxxxxx"
 #define DHTPIN 14
 #define DHTTYPE DHT11
 #define trigPin 5
